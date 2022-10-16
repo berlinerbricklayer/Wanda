@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jmatch-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Maurer</dc:creator>
+    <dc:title>Wanda - Bologna</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>7</version>
+
+<data>
+<title>Wanda - Bologna</title>
+
+<timer><seconds>240</seconds><include-timer>1</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<matching-exercise>
+<default-right-item>???</default-right-item>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;schlafen.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;schlafen.mp3&quot; title=&quot;schlafen.mp3&quot;&amp;#x003E;schlafen.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Ich kann sicher nicht mit meiner Cousine schlafen&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;I can definitely not sleep with my cousin&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;obwohl.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;obwohl.mp3&quot; title=&quot;obwohl.mp3&quot;&amp;#x003E;obwohl.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Obwohl ich gerne w&amp;#x00FC;rde&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;Although I would really like to&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;aberich.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;aberich.mp3&quot; title=&quot;aberich.mp3&quot;&amp;#x003E;aberich.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Aber ich trau&amp;#x2032; mich nicht&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;But I don&apos;t dare&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;amore.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;amore.mp3&quot; title=&quot;amore.mp3&quot;&amp;#x003E;amore.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Amore, meine Stadt&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;Amore, my city&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;bologna.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;bologna.mp3&quot; title=&quot;bologna.mp3&quot;&amp;#x003E;bologna.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Bologna, meine Stadt&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;Bologna, my city&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;reden.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;reden.mp3&quot; title=&quot;reden.mp3&quot;&amp;#x003E;reden.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Ich kann sicher nicht mit meiner Cousine reden&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;I certainly can&apos;t talk with my cousin&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;aberwir.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;aberwir.mp3&quot; title=&quot;aberwir.mp3&quot;&amp;#x003E;aberwir.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Aber wir trauen uns nicht&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;But we don&apos;t dare&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;tanzen.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;tanzen.mp3&quot; title=&quot;tanzen.mp3&quot;&amp;#x003E;tanzen.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Ich kann sicher nicht mit meiner Cousine tanzen&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;I certainly can&apos;t dance with my cousin&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;abersie.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;abersie.mp3&quot; title=&quot;abersie.mp3&quot;&amp;#x003E;abersie.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Aber sie traut sich nicht&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;But she does not dare&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;amoregehabt.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;amoregehabt.mp3&quot; title=&quot;amoregehabt.mp3&quot;&amp;#x003E;amoregehabt.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Tante Ceccarelli hat in Bologna Amore gemacht&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;Aunt Ceccarelli made Amore (italian: love) in Bologna&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;wohin.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;wohin.mp3&quot; title=&quot;wohin.mp3&quot;&amp;#x003E;wohin.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Wenn jemand fragt wohin du gehst, sag nach Bologna...&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;When someone asks where you are going to, say to Bologna&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot; style=&quot;width: 175px&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;fueramore.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;fueramore.mp3&quot; title=&quot;fueramore.mp3&quot;&amp;#x003E;fueramore.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Wenn jemand fragt wof&amp;#x00FC;r du stehst, sag f&amp;#x00FC;r Amore (love)&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;When someone asks what you stand for, say for love&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+</matching-exercise>
+</data>
+
+<hotpot-config-file>
+<jmatch>
+<exercise-subtitle>Matching exercise</exercise-subtitle>
+<instructions>Match the items on the right to the items on the left.</instructions>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<show-limited-questions>1</show-limited-questions>
+<questions-to-show>7</questions-to-show>
+<shuffle-questions>1</shuffle-questions>
+<separate-javascript-file>1</separate-javascript-file>
+<next-caption>Next</next-caption>
+<delete-caption>Delete</delete-caption>
+<guess-correct>Alles richtig! Sehr gut! &amp;#x003C;br&amp;#x003E; &amp;#x003C;em&amp;#x003E;All correct! Very good!&amp;#x003C;/em&amp;#x003E;</guess-correct>
+<guess-incorrect>Tut mir Leid. Versuch es nochmal! &amp;#x003C;br&amp;#x003E;  &amp;#x003C;em&amp;#x003E; Sorry. Try again! &amp;#x003C;/em&amp;#x003E;</guess-incorrect>
+</jmatch>
+
+<global>
+<your-score-is>Dein Ergebnis ist... &amp;#x003C;br&amp;#x003E; &amp;#x003C;em&amp;#x003E;Your result is... &amp;#x003C;/em&amp;#x003E;</your-score-is>
+<correct-indicator>&amp;#x2714; Richtig</correct-indicator>
+<incorrect-indicator>&amp;#x2718; Falsch</incorrect-indicator>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+<times-up>Die Zeit ist um! &amp;#x003C;em&amp;#x003E;  Time is up! &amp;#x003C;/em&amp;#x003E;</times-up>
+<check-caption>Check</check-caption>
+<ok-caption>OK</ok-caption>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>0</include-contents>
+<include-back>0</include-back>
+<contents-url>contents.htm</contents-url>
+<graphic-url>Wanda.jpg.jpg</graphic-url>
+<font-face>&quot;Century Gothic&quot;,&quot;Berlin Sans FB&quot;,&quot;Bauhaus 93&quot;,&quot;Book Antiqua&quot;,Geneva,Arial,sans-serif</font-face>
+<font-size>medium</font-size>
+<page-bg-color>#C0C0C0</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#000000</nav-bar-color>
+<formmail-url>http://jeffcoschools.us/cgi-bin/FormMail.pl</formmail-url>
+<email>amaurer@jeffcoschools.us</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+</global>
+</hotpot-config-file>
+</hotpot-jmatch-file>
